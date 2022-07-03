@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37000316814",
+    "project_id": "login-3d06f",
+    "storage_bucket": "login-3d06f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37000316814:android:1796ba96420a917325c6df",
+        "android_client_info": {
+          "package_name": "com.example.tokoonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37000316814-imm190426ncli2klhdnkvb11tleuds4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCSodQ04DMbtyMsVjcCtdzUpLsCBUVaBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37000316814-imm190426ncli2klhdnkvb11tleuds4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
